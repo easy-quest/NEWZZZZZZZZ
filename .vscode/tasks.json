@@ -1,0 +1,12 @@
+{
+    // См. https://go.microsoft.com/fwlink/?LinkId=733558
+    // для документации по формату tasks.json
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "echo",
+            "type": "shell",
+            "command": "echo Hello"
+        }
+    ]
+}
